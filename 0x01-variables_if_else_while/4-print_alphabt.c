@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Entry Point Print
- * Retrun: Always 0 (Success)
+ * main - Printing all the letters except q and e
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
